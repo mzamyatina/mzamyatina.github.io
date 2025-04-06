@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "moving houses\n\n\n\n\n\n\nphd\n\n\n\n\n\n\n\n\n\nNov 15, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nbirthday poster\n\n\n\n\n\n\nphd\n\n\n\n\n\n\n\n\n\nApr 17, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nvie bien remplie\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\nJan 27, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nre to save atmospheric chemists\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\nMar 22, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nmsc graduation\n\n\n\n\n\n\nmsc\n\n\n\n\n\n\n\n\n\nJul 21, 2016\n\n\n\n\n\n\n\n\n\n\n\n\nUEApy\n\n\n\n\n\n\npython\n\n\n\n\n\n\n\n\n\nJan 22, 2016\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\nphd\n\n\n\n\n\n\n\n\n\nJan 21, 2016\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Braam, Marrick, Paul I Palmer, Leen Decin, Robert J Ridgway, Maria Zamyatina, Nathan J Mayne, Denis E Sergeev, and N Luke Abraham. 2022. “Lightning-induced chemistry on tidally-locked Earth-like exoplanets.” Monthly Notices of the Royal Astronomical Society 517 (2): 2383–2402. https://doi.org/10.1093/mnras/stac2722.\n\n\nChristie, Duncan A., Elspeth K. H. Lee, Hamish Innes, Pascal A. Noti, Benjamin Charnay, Thomas J. Fauchez, Nathan J. Mayne, et al. 2022. “CAMEMBERT: A Mini-Neptunes GCM Intercomparison, Protocol Version 1.0. A CUISINES Model Intercomparison Project.” The Planetary Science Journal 3 (11): 261. https://doi.org/10.3847/PSJ/ac9dfe.\n\n\nGromov, S. A., S. S. Gromov, M. Yu. Zamyatina, and A. M. Trifonova-Yakovleva. 2013. “First-order evaluation of transboundary pollution fluxes in areas of EANET stations in Eastern Siberia and the Russian Far East.” EANET Science Bulletin 3: 195–203. https://doi.org/10.13140/2.1.4805.9209.\n\n\nRadica, Michael, Luis Welbanks, Néstor Espinoza, Jake Taylor, Louis-philippe Coulombe, Adina D Feinstein, Jayesh Goyal, et al. 2023. “Awesome SOSS: Transmission spectroscopy of WASP-96b with NIRISS/SOSS.” Monthly Notices of the Royal Astronomical Society 524 (1): 835–56. https://doi.org/10.1093/mnras/stad1762.\n\n\nRidgway, R J, M Zamyatina, N J Mayne, J Manners, F H Lambert, M Braam, B Drummond, E Hébrard, P I Palmer, and K Kohary. 2023. “3D modelling of the impact of stellar activity on tidally locked terrestrial exoplanets: atmospheric composition and habitability.” Monthly Notices of the Royal Astronomical Society 518 (2): 2472–96. https://doi.org/10.1093/mnras/stac3105.\n\n\nTaylor, Jake, Michael Radica, Luis Welbanks, Ryan J MacDonald, Jasmina Blecic, Maria Zamyatina, Alexander Roth, et al. 2023. “Awesome SOSS: Atmospheric characterisation of WASP-96 b using the JWST early release observations.” Monthly Notices of the Royal Astronomical Society, 51–87. https://doi.org/10.1093/mnras/stad1547.\n\n\nZamyatina, Maria, Duncan A Christie, Eric Hébrard, Nathan J Mayne, Michael Radica, Jake Taylor, Harry Baskett, et al. 2024. “Quenching-Driven Equatorial Depletion and Limb Asymmetries in Hot Jupiter Atmospheres: WASP-96b Example.” Monthly Notices of the Royal Astronomical Society 529 (2): 1776–1801. https://doi.org/10.1093/mnras/stae600.\n\n\nZamyatina, Maria, Eric Hébrard, Benjamin Drummond, Nathan J Mayne, James Manners, Duncan A Christie, Pascal Tremblin, David K Sing, and Krisztian Kohary. 2023. “Observability of signatures of transport-induced chemistry in clear atmospheres of hot gas giant exoplanets.” Monthly Notices of the Royal Astronomical Society 519 (2): 3129–53. https://doi.org/10.1093/mnras/stac3432."
+  },
+  {
+    "objectID": "posts/2016-01-21-intro.html",
+    "href": "posts/2016-01-21-intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "3, 2, 1, and action! Yes, it feels like that only after 3 months of various training activities my PhD camera finally started to roll. Thus, here and now I declare that the ‘what am I going to do in my PhD?’ phase is over, and as a proof I attach my (first ever) poster about it, which was prepared for the UKCA Theory and Practice Workshop, 4-8 January 2016.\nPoster in PDF: Introduction to my PhD."
+  },
+  {
+    "objectID": "posts/2018-01-27-vie-bien-remplie.html",
+    "href": "posts/2018-01-27-vie-bien-remplie.html",
+    "title": "vie bien remplie",
+    "section": "",
+    "text": "There are two best feelings you can experience while doing a PhD: when you get something working and get something done. With great caution, but secretly jumping with joy, I am pleased to say my list of ‘PhD things done’ has become a bit bigger. On 10 January I had finally presented my recommendations for updating the UKCA’s tropospheric chemistry mechanism to the OXBUDS project group. These updates should improve the ability of this global chemistry-climate model to simulate tropospheric ozone, albeit we are not expecting this improvement to be as prominent as it is in a box model environment. In any case, the material for one chapter of my thesis has been created, discussed and now is ready to be written in prose.\nSpeaking of prose, the abstract for my first EGU conference was accepted, and on 20 February I will know if my prose gets a chance to be converted into a talk.\nIn addition to my PhD I was lately involved in organising the Atmospheric and Marine Biogeochemistry (AMB) seminars at the School of Environmental Sciences at UEA. These seminars are held every Monday during term time, and are a mixture of talks from internal and external speakers whose research is within or related to atmospheric and marine biogeochemistry. Together with Matthew Bone and Marcus Koehler we managed to get through the autumn semester; Marcus and I are chairing now, and I am happy to say (not to jinx it) that yesterday the summer semester got fully booked!\nAMB seminars are somewhat related to the AtmosChemUEA twitter account, which Mike Newland and I set up back in November 2015. I am still maintaining it, although the idea is that everyone from the UEA atmospheric chemistry group can contribute. Over the years we shared quite a few photos and tweets, but the account is nowhere near being as popular as other similar ones. I guess people at UEA are just very modest, but, hopefully, with time we will all learn to effectively use Twitter for communicating our science.\nWhat is becoming popular at UEA is Python. It started with my husband Denis Sergeev spreading the word about Python and founding the UEAPY group, and subsequently grew into organising two Python training courses supported by the EnvEast Doctoral Training Partnership and the Centre for Environment Fisheries and Aquaculture Science (Cefas). A year ago I was a student on the first such course, but this year I was a lecturer giving an introduction to matplotlib. All lectures, accompanying exercises and installation instructions can be found on the Python course 2018 Github page.\nTo top it all up, on 21 January I gave a short talk about the networkx package to the UEAPY group. Despite that this package was not originally designed for network visualisation, I found it useful for my amateur attempt to draw the linkages between species in the same subset of tropospheric chemistry from the Master Chemical Mechanism (MCM) and the Common Representative Intermediates (CRI) Mechanism. For inorganic plus C1-C5 alkane oxidation chemistry the MCM requires 507 species and 1649 reactions, the CRI needs 82 species and 288 reactions. These numbers tell you that the MCM is obviously more explicit than the CRI, but they do not carry any information about the reactivity of species (in this context the number of reactions a species is involved in). This kind of information you can get by looking at a chemical mechanism as a network, but my PhD is not about that, so I am keeping this side project in my sandbox.\nC’est ma vie scientifique. Vie bien remplie, mais intéressante. (started to learn French)"
+  },
+  {
+    "objectID": "posts/2017-03-22-re-to-save-atmospheric-chemists.html",
+    "href": "posts/2017-03-22-re-to-save-atmospheric-chemists.html",
+    "title": "re to save atmospheric chemists",
+    "section": "",
+    "text": "It has been a long time since my last update here… Could not say that I have obtained some outstanding results in my PhD, but I surely discovered a rather convenient way of working with various chemical schemes. Just to get you on the same page, I am trying to develop a new chemical scheme for the UM-UKCA global climate-chemistry model, and as any new scheme, it needs to be tested against the ‘gold standard’, the Master Chemical Mechanism.\nThere are lots of ways to compare one mechanism with another, yet it is always interesting to see which reactions contribute the most to the change in concentration of whatever chemical species you are interested in. Calculating fluxes through each individual reaction provides you with this information, though the process is not that trivial when you have thousands of reactions and hundreds of species in a mechanism. Here I share a part of my solution to this problem, which involves Python, re module and extensive use of dictionaries."
+  },
+  {
+    "objectID": "cv.html#academic-career",
+    "href": "cv.html#academic-career",
+    "title": "CV",
+    "section": "Academic Career",
+    "text": "Academic Career\nUniversity of Exeter | Exeter, UK\nPostdoctoral researcher | 2019–Present\nModelling hot Jupiter atmospheric chemistry with the Met Office Unified Model"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nUniversity of East Anglia | Norwich, UK\nPhD in Environmental Sciences | 2015–2020\nThesis: Impacts of C1-C3 alkyl nitrates on tropospheric ozone chemistry\nI explored the global and localised impacts of the chemistry of a group of important reservoirs of reactive nitrogen, alkyl nitrates, on the composition of the Earth’s troposphere. I implemented new alkyl nitrate chemistry, oceanic and biomass burning emissions and validated the model against aircraft observations from the Atmospheric Tomography mission.\nUniversity of East Anglia | Norwich, UK\nMSc in Climate Change | 2014–2025\nThesis: Investigation of the relationship between tropospheric ozone production efficiency and carbon bond emissions\nMoscow State University | Moscow, Russia\nSpecialist Diploma in Meteorology and Climatology | 2009–2014\nThesis: Climatically-induced variations of the Caspian Sea level over the last Millennium"
+  },
+  {
+    "objectID": "posts/2018-11-15-moving-houses.html",
+    "href": "posts/2018-11-15-moving-houses.html",
+    "title": "moving houses",
+    "section": "",
+    "text": "It all started when my husband got a postdoc offer from the University of Exeter. It was the end of March, nonstop thesis writing for him and EGU preparations for me. 5.5 hours by train didn’t seem much at the time, but future multiple trips between Norwich and Exeter showed that it is. So, my husband moved and I joined him later as soon as I finished tutoring and selling the furniture.\nIt was an unsettling experience to live in a gradually vanishing home. Things that you grew to love have been finding their new homes, day by day leaving you with more empty space. But knowing that there is another place waiting for me helped to keep my spirits up.\nIt’s been over a week since we moved, and I still think about our 6-hour drive from Norfolk to Devon, across East of England and South East to South West. It was beautiful! Starting with familiar sights of sunlit Norfolk countryside, we passed populous and bustling London and entered the world of rolling hills and moorland. This landscape looked particularly spooky in the evening light, and as it got darker, the combination of an overcast sky and a black ground lit by scattered lights from distant houses had an effect of a world turned upside down, with starry night sky below and features land above.\nIt feels strange to move to a new place but to continue to do the same, in my case doing my PhD. But I welcome this change as it gives me an opportunity to work more independently from my supervisors, which is encouraging and scary at the same time."
+  },
+  {
+    "objectID": "posts/2016-01-22-ueapy.html",
+    "href": "posts/2016-01-22-ueapy.html",
+    "title": "UEApy",
+    "section": "",
+    "text": "As many other researchers and good friends before me, I started to learn programming in Python. And obviously, I began from some short on-line courses like the one on Codecademy, but as you progress, you need to distance yourself from ‘foos’ and ‘bars’ and think of the ways to apply newly acquired knowledge to your research. At this point you search the Internet for examples, blogs, documentation like crazy, and if at the end of the day you have found exactly what you were looking for - great! However, sometimes it is not the case, and here is when having a group of colleagues from your university, who use Python in their research too, could be beneficial.\nLuckily, a couple of months ago the UEAPY group was established at UEA. Since then every week we meet to share our experience with Python, and here I summarised my contribution to one of the meetings. That day we discussed using new Python string formatting for assembling simple text files needed to run KPP. This post was inspired by the wonderful Python scripts of Dr Paul Griffiths."
+  },
+  {
+    "objectID": "posts/2018-04-17-birthday-poster.html",
+    "href": "posts/2018-04-17-birthday-poster.html",
+    "title": "birthday poster",
+    "section": "",
+    "text": "This year I got a very special birthday present – a poster at my first conference, EGU2018! It was incredible. I met people interested in my work, explained it in at least 10 different ways and totally lost my voice by the end of the day. On top of that, when I returned to my room, I was greeted by a surprise bouquet of flowers from my husband and a card hidden in my suitcase.\nNext couple days were surreal. Lots of talks, posters, meeting even more people and feverish abstract writing for the next conference. That next conference is in Japan, the iCACGP-IGAC 2018, one of the best atmospheric chemistry conferences.\nFascinating how communicating your own research powers up your interest in the subject. It is a ‘must have’ remedy for the second year blues, which I went through last year, echos of it still crawling into my mind. Going to EGU2018 was probably one of the best wellbeing decisions of my PhD, and we will see if IGAC would have the same impact."
+  },
+  {
+    "objectID": "posts/2016-07-21-msc-graduation.html",
+    "href": "posts/2016-07-21-msc-graduation.html",
+    "title": "msc graduation",
+    "section": "",
+    "text": "Preface to my PhD endeavour, MSc in Climate Change, was finished in August 2015, but I had my graduation ceremony only in July 2016! Time to throw my cap into the air and jump with my best friends!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maria Zamyatina",
+    "section": "",
+    "text": "Welcome to my professional website!\nI am a postdoctoral researcher at the Department of Physics and Astronomy at the University of Exeter. I study chemical processes in the atmospheres of hydrogen-dominated gas giant exoplanets using 3D chemistry-climate models and JWST data."
+  }
+]
