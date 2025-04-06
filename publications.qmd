@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bibliography: /assets/my_papers.bib
+bibliography: my_papers.bib
 nocite: |
   @*
 ---

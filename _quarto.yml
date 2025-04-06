@@ -1,7 +1,5 @@
 project:
   type: website
-  preview:
-    port: 9999
   resources:
     - /assets
 

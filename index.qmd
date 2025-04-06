@@ -19,7 +19,7 @@ about:
         href: https://github.com/mzamyatina
 ---
 
-Welcome to my personal website!
+Welcome to my professional website!
 
 I am a postdoctoral researcher at the [Department of Physics and Astronomy](https://physics-astronomy.exeter.ac.uk/) at the University of Exeter.
 I study chemical processes in the atmospheres of hydrogen-dominated gas giant exoplanets using 3D chemistry-climate models and JWST data.
