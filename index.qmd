@@ -2,9 +2,12 @@
 title: ""
 toc: false
 about:
-    template: trestles
+    template: solana
     image: /assets/profile.jpg
     links:
+      - icon: file-pdf
+        text: CV
+        href: assets/cv_mzamyatina.pdf
       - icon: envelope-fill
         text: Email
         href: mailto:m.zamyatina@exeter.ac.uk
@@ -12,14 +15,10 @@ about:
         href: https://scholar.google.com/citations?user=tER_AsYAAAAJ&hl=en
       - text: "{{< ai orcid >}} ORCiD"
         href: https://orcid.org/0000-0002-9705-0535
-      - text: "{{< ai researchgate >}} ResearchGate"
-        href: https://www.researchgate.net/profile/Maria-Zamyatina-2
       - icon: github
         text: GitHub
         href: https://github.com/mzamyatina
 ---
-
-Welcome to my professional website!
 
 I am a postdoctoral researcher at the [Department of Physics and Astronomy](https://physics-astronomy.exeter.ac.uk/) at the University of Exeter.
 I study chemical processes in the atmospheres of hydrogen-dominated gas giant exoplanets using 3D chemistry-climate models and JWST data.

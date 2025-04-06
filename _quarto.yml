@@ -8,8 +8,7 @@ website:
   favicon: /assets/chemnet_sepia.png
   navbar:
     left:
-      - cv.qmd
-      - publications.qmd
+      - posters.qmd
       - blog.qmd
 
 format:
