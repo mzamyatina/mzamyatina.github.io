@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+[{{< fa file-pdf size=Huge >}}](assets/cv_mzamyatina.pdf)
+
+## Academic Career
+**University of Exeter** | Exeter, UK\
+Postdoctoral researcher | 2019--Present\
+*Modelling hot Jupiter atmospheric chemistry with the Met Office Unified Model*
+
+## Education
+**University of East Anglia** | Norwich, UK\
+PhD in Environmental Sciences | 2015--2020\
+Thesis: [*Impacts of C1-C3 alkyl nitrates on tropospheric ozone chemistry*](https://ueaeprints.uea.ac.uk/id/eprint/75450/)\
+I explored the global and localised impacts of the chemistry of a group of important reservoirs of reactive nitrogen, alkyl nitrates, on the composition of the Earth's troposphere.
+I implemented new alkyl nitrate chemistry, oceanic and biomass burning emissions and validated the model against aircraft observations from the Atmospheric Tomography mission.
+
+**University of East Anglia** | Norwich, UK\
+MSc in Climate Change | 2014--2025\
+Thesis: *Investigation of the relationship between tropospheric ozone production efficiency and carbon bond emissions*
+
+**Moscow State University** | Moscow, Russia\
+Specialist Diploma in Meteorology and Climatology | 2009--2014\
+Thesis: *Climatically-induced variations of the Caspian Sea level over the last Millennium*

@@ -1,0 +1,24 @@
+project:
+  type: website
+  preview:
+    port: 9999
+  resources:
+    - /assets
+
+website:
+  title: "Maria Zamyatina"
+  favicon: /assets/chemnet_sepia.png
+  navbar:
+    left:
+      - cv.qmd
+      - publications.qmd
+      - blog.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

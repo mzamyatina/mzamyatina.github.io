@@ -1,0 +1,8 @@
+---
+title: "Publications"
+bibliography: /assets/my_papers.bib
+nocite: |
+  @*
+---
+::: {#refs}
+:::
