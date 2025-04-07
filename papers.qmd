@@ -1,0 +1,8 @@
+---
+title: "Papers"
+bibliography: assets/my_papers.bib
+nocite: |
+  @*
+---
+::: {#refs}
+:::

@@ -1,0 +1,7 @@
+---
+title: "Talks"
+---
+
+UKEXOM2021 [3D simulations of warm and hot Jupiter atmospheres: the role of 3D mixing in shaping CH4-to-CO conversion pathways](https://exoplanet-talks.org/talk/343)
+
+EGU2019 [Impact of C1-C3 alkyl nitrate chemistry on tropospheric ozone: box and global model perspectives](../assets/mzamyatina_talk_egu2019.pdf)
