@@ -1,8 +1,21 @@
 ---
 title: "Posters"
 ---
+Postdoc:
 
-PhD posters:
+3. Spatial variability in CH4-CO interconversion pathways in hot Jupiter atmospheres
+
+2. [Quenching-driven equatorial depletion and limb asymmetries in WASP-96b’s atmosphere](../assets/mzamyatina_poster_exoplanets5.pdf)
+
+1. [Applying known chemical kinetics data to model atmospheres of extrasolar planets](../assets/mzamyatina_poster_igac2022.pdf)
+
+
+PhD:
+
+4. [Local and global impacts of C1-C3 alkyl nitrate photochemistry and emissions on tropospheric ozone](../assets/mzamyatina_poster_igac2021.pdf)
 
 2. [Impact of alkyl nitrate chemistry on tropospheric ozone](../assets/mzamyatina_igac2018.pdf)
+
+3. [Impact of C1-C5 alkyl nitrate chemistry on tropospheric ozone - a box modelling study](../assets/mzamyatina_egu2018.pdf)
+
 1. [Is human activity affecting the atmosphere’s ability to clean itself of pollutants?](../assets/mzamyatina_introphdposter.pdf)
