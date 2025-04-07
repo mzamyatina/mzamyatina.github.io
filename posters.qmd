@@ -2,6 +2,7 @@
 title: "Posters"
 ---
 
-PhD posters
+PhD posters:
 
-[Introduction to my PhD](../assets/mzamyatina_introphdposter.pdf).
+2. [Impact of alkyl nitrate chemistry on tropospheric ozone](../assets/mzamyatina_igac2018.pdf)
+1. [Is human activity affecting the atmosphere’s ability to clean itself of pollutants?](../assets/mzamyatina_introphdposter.pdf)
