@@ -1,3 +1,5 @@
+# Activate conda environment
+conda activate qrt
 # Preview locally
 quarto preview
 # Publish on gh-pages
