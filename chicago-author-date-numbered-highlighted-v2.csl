@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Chicago Author-Date with Numbering</title>
+    <id>http://www.zotero.org/styles/chicago-author-date-numbered</id>
+    <link href="http://www.zotero.org/styles/chicago-author-date" rel="self"/>
+    <author>
+      <name>Custom</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="generic-base"/>
+    <updated>2025-04-08T00:00:00+00:00</updated>
+  </info>
+
+  <macro name="author">
+    <names variable="author">
+      <name delimiter=", " delimiter-precedes-last="always">
+        <name-part name="family"/>
+        <name-part name="given"/>
+      </name>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="translator"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="title">
+    <text variable="title" font-style="italic"/>
+  </macro>
+
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <macro name="container-title">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+
+  <macro name="publisher">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+
+  <citation>
+    <sort>
+      <key variable="issued" sort="descending"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter=", ">
+      <text variable="author"/>
+      <text variable="issued"/>
+    </layout>
+  </citation>
+
+  <bibliography et-al-min="4" et-al-use-first="1" second-field-align="flush">
+    <sort>
+      <key variable="issued" sort="descending"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" suffix=". "/>
+      <text macro="author"/>
+      <text macro="issued" prefix=" (" suffix="). "/>
+      <text macro="title" suffix=". "/>
+      <text macro="container-title" suffix=", "/>
+      <group delimiter=", ">
+        <text variable="volume"/>
+        <text variable="issue"/>
+        <text variable="page"/>
+      </group>
+      <text variable="DOI" prefix=". DOI: "/>
+    </layout>
+  </bibliography>
+</style>
