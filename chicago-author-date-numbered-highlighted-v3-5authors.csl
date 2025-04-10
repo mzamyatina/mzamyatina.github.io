@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
   <info>
-    <title>Chicago Author-Date with Numbering</title>
-    <id>http://www.zotero.org/styles/chicago-author-date-numbered</id>
+    <title>Chicago Author-Date with Numbering (5 Authors)</title>
+    <id>http://www.zotero.org/styles/chicago-author-date-numbered-5authors</id>
     <link href="http://www.zotero.org/styles/chicago-author-date" rel="self"/>
     <author>
       <name>Custom</name>
@@ -56,7 +56,7 @@
     </layout>
   </citation>
 
-  <bibliography et-al-min="4" et-al-use-first="1" second-field-align="flush">
+  <bibliography et-al-min="6" et-al-use-first="5" second-field-align="flush">
     <sort>
       <key variable="issued" sort="descending"/>
     </sort>

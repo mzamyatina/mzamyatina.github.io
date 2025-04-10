@@ -3,7 +3,7 @@ title: "Papers"
 bibliography: assets/my_papers.bib
 format:
   html:
-    csl: chicago-author-date-numbered-highlighted-v2.csl
+    csl: chicago-author-date-numbered-highlighted-v3-5authors.csl
     lua-filter: zamyatina-highlight.lua
     citeproc: true
 nocite: |
