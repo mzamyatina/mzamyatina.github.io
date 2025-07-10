@@ -3,7 +3,7 @@ title: "Posters"
 ---
 Postdoc:
 
-- Spatial variability in CH4-CO interconversion pathways in hot Jupiter atmospheres (tbd)
+- [CH4-CO conversion pathways in hot Jupiter atmospheres](../assets/mzamyatina_poster_exoclimes2025.pdf)
 
 - [Quenching-driven equatorial depletion and limb asymmetries in WASP-96b’s atmosphere](../assets/mzamyatina_poster_exoplanets5.pdf)
 
